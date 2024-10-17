@@ -1,0 +1,52 @@
+body{
+  border: 1px  ;
+  width: 600px;
+  padding: 3% ;
+  margin : 5% auto;
+  background-color: #463d36;
+}
+
+.box1{
+box-sizing: border-box;
+width: 700px;
+padding: 40px;
+margin: auto;
+border-radius: 30px;
+background-color:white;
+
+}
+
+h2{
+  color:#a6192e;
+  font-size:28px;
+  margin-bottom: 0;
+}
+
+h1{
+  font-size: 40px;
+  margin-top: 0;
+  color: #463d36;
+  font-weight: lighter;
+}
+
+p{
+  font-size:28px;
+  color: #463d36;
+  
+}
+
+button{
+  padding: 30px 40px;
+  background-color: #463d36;
+  font-size: 24px;
+  
+}
+
+span{
+  color: white;
+   font-size:24px;
+}
+
+body{
+  background-color:
+}

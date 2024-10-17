@@ -1,0 +1,103 @@
+header h1{
+    font-size:50px;
+    text-align:center;
+    color: white;
+  }
+  
+  header p{
+    text-align:center;
+    box-sizing: content-box;
+    width: 50%;
+    margin-left:25%;
+    color: white;
+    padding-bottom:30px
+  }
+  
+  header{
+    border-bottom: 1px solid black;
+    border-color: white;
+    margin:10%
+  }
+  
+  
+  body {
+      background-image: url('https://cdn.wallpapersafari.com/99/43/FZBGR6.jpg');
+      background-repeat: repeat-x ;
+      background-size: 85% auto;
+      
+      font-family: bitter,serif;
+      
+  }
+  
+  .date{
+    text-align: center;
+    padding:350px;
+    font-size:15px;
+  }
+  
+  .date span{
+    color:red;
+  }
+  
+  section{
+    margin: 0 auto;
+    margin-top:-320px;
+    max-width:900px;
+    
+  }
+  
+  span{
+    color:red;
+  }
+  
+   .Quote {
+    
+    margin: 40px;
+    border-left:2px solid red;
+    display:grid;
+    font-style: italic;
+  }
+  
+  .Quote, .text{
+    padding-left:10px;
+    font-size:12px;
+  }
+  
+  .Quote, .author{
+    padding-left:30px;
+    font-size:12px;
+    margin-top:-6px;
+   
+  }
+  div h3 {
+    border-top: 1px solid black;
+    padding-top:60px;
+  }
+  
+  footer {
+    background-color: #863ae8;
+  }
+  
+  footer ul {
+    list-style: none;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+    text-align: center;
+    padding: 28px 0;
+  }
+  
+  footer ul li {
+    display: inline;
+    padding: 0 16px;
+  }
+  
+  footer li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  footer li a:hover {
+    text-decoration: underline;
+  }
+  

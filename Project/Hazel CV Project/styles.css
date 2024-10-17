@@ -1,0 +1,175 @@
+body{
+  padding:0;
+  margin:0;
+  font-family: "Forum", serif;
+}
+
+.hero{
+   min-height: 90vh;
+   background-color: #f08e80;
+  color: white;
+  display: inline-block;
+}
+
+.navbar{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  color:white;
+  padding: 24px 32px;
+  box-sizing: border-box;
+}
+
+.navbar p{
+  font-size:2rem;
+  font-weight:bold;
+  color:white;
+  
+}
+
+.navbar .links a{
+  text-decoration:none;
+  color:white;
+  margin-right: 60px;
+  font-size: 1.2rem;
+}
+
+.navbar .contact {
+  color:#f08e80;
+  padding:16px 24px;
+  text-decoration:none;
+  background-color:white;
+}
+.navbar .contact:hover{
+  opacity:0.8;
+}
+.content{
+  color:white;
+  padding:0 15%;
+  
+  
+}
+.tag-line{
+  font-size: 4.5rem;
+  color: white;
+  letter-spacing: 2px;
+  padding: 32px 0;
+}
+.two-column-section{
+  font-size:2rem;
+}
+
+.two-column-section > p{
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+}
+
+.two-column-section .skills{
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+  list-style:none;
+  padding:0;
+}
+
+.two-column-section .skills li{
+  width: 50%;
+  float: left;
+  font-size: 1.2rem;
+  margin:8px 0;
+}
+
+.blog-section{
+  background-color:white;
+  padding:64px 0;
+  
+}
+
+.blog-content{
+  padding:0 15%;
+}
+
+.two-column-section .blog-post{
+  width: 50%;
+  float: left;
+}
+
+.blog-heading{
+  font-size:1.5rem;
+}
+
+.blog-text{
+  font-size:1.5rem;
+}
+
+.blog-date{
+  font-size:0.9rem;
+  color: grey;
+}
+
+.blog-post p{
+  margin:25px 0;
+}
+
+
+.blog-section2{
+  background-color:#fBF2C4;
+  padding:64px 0;
+  
+}
+  
+
+.blog-content2{
+  padding:0 15%;
+}
+
+.two-column-section .event-post{
+  width: 50%;
+  float: left;
+}
+
+.event-name{
+  font-size:1.5rem;
+}
+
+.event-loctaion{
+  font-size:1.5rem;
+}
+
+.event-date{
+  font-size:0.9rem;
+  color: grey;
+}
+
+.event-post p{
+  margin:25px 0;
+}
+
+
+.blog-section2{
+  background-color: #fdf0e6;
+  padding: 64px 0;
+  display: inline-block;
+  width: 100%;
+  
+}
+
+
+
+.social-media {
+   padding: 0 45%;
+   background-color:black;
+   height: 160px;
+   margin-top:-10px
+}
+
+img{
+  width:45px;
+  margin-top:50px;
+}
+
+.social-media p{
+  color:white;
+  margin:0 auto;
+}

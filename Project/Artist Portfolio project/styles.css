@@ -1,0 +1,85 @@
+body{
+    font-family: Cormorant, serif;
+    
+   
+  }
+  
+  h1{
+    display:inline-block;
+    font-weight: 300;
+    margin:0;
+    margin-right: 32px;
+  }
+  .links{
+    display:inline-block;
+  }
+  .links li{
+    display:inline-block;
+    font-size: 20px;
+    margin:0 8px;
+    
+  }
+  .links a{
+    color: black
+     
+  }
+  .links ul{
+    padding:0;
+  }
+  .navbar{
+    margin: 32px;
+  }
+  
+  .image-container{
+    width: 49.75%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding:16px;
+  }
+  
+  .image-container img{
+    height:500px;
+    width:100%;
+    object-fit: cover;
+  }
+  
+  .image-caption{
+    margin-top: 8px;
+    font-size: 15px; */
+    display: inline-block;
+    font-weight: 300;
+  }
+  
+  .galerie{
+    padding: 16px;
+  }
+  
+  .about{
+    width: 40%;
+    min-width: 600px;
+    margin: 100px 0 100px 50px;
+  }
+  .about h3{
+    font-size: 40px;
+    font-weight: 300;
+  }
+  
+  .contact{
+    margin-top: 100px;
+  }
+  
+  .contact p{
+    margin: 0;
+    font_size:20px;
+  }
+  
+  .cta{
+    border-bottom: 1px solid black;
+    display:inline-block;
+    padding-bottom: 8px;
+    margin_top: 0px;
+  }
+  
+  img:hover{
+    opacity:0.5;
+  }
