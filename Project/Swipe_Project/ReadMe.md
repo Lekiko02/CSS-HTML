@@ -58,10 +58,7 @@ Swipe/
 
 ## Screenshots
 ### Desktop View:
-![Desktop Screenshot](assets/desktop-view.png)
-
-### Mobile View:
-![Mobile Screenshot](assets/mobile-view.png)
+![rockGame](https://github.com/user-attachments/assets/b4ca28a2-bcc9-4de0-98f5-d8c0cad2cee0)
 
 ## Future Enhancements
 - Add backend integration for dynamic content.
